@@ -1,6 +1,6 @@
 # Context
 
-This repo is a collection of files related to the Omnifood coding challenges. This challenge is part of Jonas Schmedtmann's [Introductory HTML and CSS Course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3). I do not own the design - me recreating it is part of the course linked above. That being said, all code written is my own.
+This repo is a collection of files related to the Omnifood coding challenges. This challenge is part of Jonas Schmedtmann's [Introductory HTML and CSS Course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3). I do not own the design - me recreating it is part of the course linked above.
 
 Given that the course is related to HTML and intermediate CSS, this is also what the design is centered around. No JavaScript is included at all.
 
